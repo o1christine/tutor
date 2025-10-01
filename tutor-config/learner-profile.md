@@ -1,7 +1,7 @@
 # Learner Profile
 
 ## Background
-- Prior Knowledge: civil engineering and structural engineering BSc and MSc degrees (~15 years ago), did "hundred days of coding" python course on replit 2 years ago.
+- Prior Knowledge: civil engineering and structural engineering BSc and MSc degrees (~15 years ago), did "hundred days of coding" python course on replit about 2 years ago.
 - Learning Style: Conceptual exploration, hands-on projects
 - Domain Expertise: Marketer and Community Builder, recent co-founder of a software development startup called Ensue (https://ensue.dev/readme), building a shared memory layer for AI agents
 - Current Context: Trying to understand computer science and agentic systems more. The target audience for the startup are prodigy developers who love the craft (software development), so I want to be able to speak the same language, understand the same foundational knowledge, speak the same developer lingo, understand the way they think, their desires and delights, their pain points and frustrations, etc. And I will only truly understand this if I experience it myself.
